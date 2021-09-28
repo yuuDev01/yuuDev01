@@ -5,7 +5,7 @@ Languages and Tools:
 JAVA / Python / JS / 
 Spring🌱
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuDev01&layout=compact&theme=vue&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuDev01&layout=compact&theme=vue&langs_count=5)](https://github.com/yuuDev01/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuDev01&theme=vue&show_icons=true)
 
 
