@@ -1,15 +1,19 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&height=180)
+![header](https://capsule-render.vercel.app/api?type=wave&height=200)
 <div align="center">
-  ## Hello World! 👋
+  <br>
+ <h1>Hello World! 👋</h1>
 
 
 Languages and Tools:      
 JAVA / Python / JS / 
 Spring🌱
 
+
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuDev01&theme=vue&show_icons=true)
+  <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuDev01&layout=compact&theme=vue&langs_count=5)](https://github.com/yuuDev01)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuDev01&theme=vue&show_icons=true)
 
 
 <!--
