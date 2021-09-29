@@ -1,7 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&height=180)
-## Hello World! 👋
-
 
 Languages and Tools:
 JAVA / Python / JS / 
@@ -25,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</center>
