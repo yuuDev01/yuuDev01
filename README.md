@@ -6,8 +6,7 @@
 
 
 Languages and Tools:      
-JAVA / Python / JS / 
-Spring🌱
+JAVA / Python / JS / Python / Spring / 🌱
 
 
   
