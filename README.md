@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=Hello%World!&fontAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=Hello%20World!&fontAlignY=60)
 <div align="center">
   <br>
  <h4>Hi! I'm YunJu 👋</h4>
