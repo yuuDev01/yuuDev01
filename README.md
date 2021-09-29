@@ -1,18 +1,16 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&height=180)
+<div align="center">
+  ## Hello World! 👋
 
-<center>## Hello World! 👋</center>
 
+Languages and Tools:      
+JAVA / Python / JS / 
+Spring🌱
 
-<center>Languages and Tools:     </center> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuDev01&layout=compact&theme=vue&langs_count=5)](https://github.com/yuuDev01)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuDev01&theme=vue&show_icons=true)
 
-<center>JAVA / Python / JS / </center>
-
-<center>Spring🌱</center>
-
-<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuDev01&layout=compact&theme=vue&langs_count=5)](https://github.com/yuuDev01)</center>
-
-<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuDev01&theme=vue&show_icons=true)</center>
 
 <!--
 **yuuDev01/yuuDev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
