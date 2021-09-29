@@ -1,4 +1,8 @@
 
+![header](https://capsule-render.vercel.app/api?type=wave&height=180)
+ <center>
+## Hello World! 👋
+
 
 Languages and Tools:
 JAVA / Python / JS / 
